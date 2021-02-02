@@ -44,7 +44,7 @@ s.no|s.name|s.marks
 7|vujwala|60
 
 # insert image
-![img not found](images.jpeg)
+![aliet](images.jpeg)
 
 # insert code
 python prgm to add
