@@ -49,6 +49,6 @@ s.no|s.name|s.marks
 # insert code
 python prgm to add
 
-a=4
-b=6
-print(a+b)
+     a=4
+     b=6
+     print(a+b)
