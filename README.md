@@ -42,3 +42,6 @@ s.no|s.name|s.marks
 5|srija|60
 6|sahera|60
 7|vujwala|60
+
+# insert image
+!(images.jpeg)
