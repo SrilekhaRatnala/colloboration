@@ -1,3 +1,4 @@
+
 # colloboration
 
 
@@ -31,6 +32,7 @@ syntax to create a link in markdown [text](url)
 EX: [ALIET](https://www.aliet.com)
 
 # create table
+
 s.no|s.name|s.marks
 --------------------
 1|sri|60
