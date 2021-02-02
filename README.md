@@ -28,4 +28,4 @@ My college name is **ANDHRA LOYOLA INSTITUTE OF ENGINEERING AND TECHNOLOGY**
 # create a link
 syntax to create a link in markdown [text](url)
 
-EX: [ALIET](https://www.andhraloyolainstituteofengineeringandtechnology.com)
+EX: [ALIET](https://www.aliet.com)
