@@ -44,4 +44,4 @@ s.no|s.name|s.marks
 7|vujwala|60
 
 # insert image
-!(images.jpeg)
+![alt myimg](images.jpeg)
