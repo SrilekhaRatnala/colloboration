@@ -44,4 +44,11 @@ s.no|s.name|s.marks
 7|vujwala|60
 
 # insert image
-![img not found](imag.jpeg)
+![img not found](images.jpeg)
+
+# insert code
+python prgm to add
+
+a=4
+b=6
+print(a+b)
