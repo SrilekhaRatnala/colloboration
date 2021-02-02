@@ -44,4 +44,4 @@ s.no|s.name|s.marks
 7|vujwala|60
 
 # insert image
-![alt img](imag.jpeg)
+![img not found](imag.jpeg)
