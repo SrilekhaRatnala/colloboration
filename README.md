@@ -34,18 +34,11 @@ EX: [ALIET](https://www.aliet.com)
 # create table
 
 s.no|s.name|s.marks
---------------------
+----|------|------|
 1|sri|60
------------
 2|jyothi|60
------------
 3|teja|60
------------
 4|varsha|60
------------
 5|srija|60
------------
 6|sahera|60
-------------
 7|vujwala|60
-------------
